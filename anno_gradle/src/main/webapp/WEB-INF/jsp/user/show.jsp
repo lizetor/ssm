@@ -6,6 +6,9 @@
 <body>
 
     ${user.username}
+    ${kv}
+    ${user_a}
+    ${user_b}
 
 </body>
 </html>
